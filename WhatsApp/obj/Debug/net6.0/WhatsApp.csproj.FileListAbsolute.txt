@@ -1,0 +1,15 @@
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\bin\Debug\net6.0\WhatsApp.exe
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\bin\Debug\net6.0\WhatsApp.deps.json
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\bin\Debug\net6.0\WhatsApp.runtimeconfig.json
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\bin\Debug\net6.0\WhatsApp.dll
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\bin\Debug\net6.0\WhatsApp.pdb
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.csproj.AssemblyReference.cache
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.AssemblyInfoInputs.cache
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.AssemblyInfo.cs
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.csproj.CoreCompileInputs.cache
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.dll
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\refint\WhatsApp.dll
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.pdb
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\WhatsApp.genruntimeconfig.cache
+C:\Users\emust\Documents\ElvinP416\WhatsApp\WhatsApp\obj\Debug\net6.0\ref\WhatsApp.dll
